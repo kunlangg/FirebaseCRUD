@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285323079213",
+    "project_id": "datateman-49068",
+    "storage_bucket": "datateman-49068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285323079213:android:84f527697126a33c9d12a4",
+        "android_client_info": {
+          "package_name": "com.example.datateman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17jtJwmAI0K9jmUainjdytcOKQoTHjOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
