@@ -30,7 +30,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/no_hp"
-            android:hint="Nomor Telepone"
+            android:hint="Nomor Telepon"
             android:ems="10"
             android:inputType="number" />
 
